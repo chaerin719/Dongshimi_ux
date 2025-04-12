@@ -1,50 +1,22 @@
-# Welcome to your Expo app 👋
+# 🌈 동시미: 감성 기반 AI 다이어리 앱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> **"동심으로 돌아가자"**는 컨셉의 감정 반응형 다이어리  
+> 사용자 감정에 맞춰 **배경 / 날씨 / 코멘트**가 변하는 감성 UI ✨
 
-## Get started
+---
 
-1. Install dependencies
+## 📝 프로젝트 소개
 
-   ```bash
-   npm install
-   ```
+**동시미(Dongshimi)**는 감정을 기록하고, 그 감정에 AI가 따뜻하게 반응해주는 새로운 형태의 다이어리 앱입니다.  
+단순한 텍스트 입력을 넘어서, 사용자의 감정과 연결되는 **상호작용 중심의 경험(UX)**을 제공합니다.
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 💡 주요 기능
 
-In the output, you'll find options to open the app in a
+- 감정에 따라 변하는 **날씨 & 배경 애니메이션**
+- AI가 분석한 감정 기반 **코멘트 생성**
+- 감정을 고르고 글을 쓰는 **직관적인 UI**
+- 폰트, 색감, 레이아웃 모두 초등학교 감성으로 맞춘 **레트로 디자인**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
